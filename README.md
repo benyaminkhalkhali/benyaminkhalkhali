@@ -1,7 +1,6 @@
 -  Hi, I’m @benyaminkhalkhali
 -  I’m interested in Backend Programming , blockchain , AI programming
 -  I’m currently learning Asp.NetCore 6
--  I’m looking to collaborate on @Mohammadestan
 -  How to reach me benyokhalkhali@gmail.com
 
 <!---
